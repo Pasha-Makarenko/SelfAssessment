@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🎓 known
-  - `try..catch` 🖐️ used
-  - Non-blocking 🎓 known
-  - Async I/O 🎓 known
+  - Event loop: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,48 +22,48 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks 🖐️ used
+  - Callbacks: 🙋 explained
   - Callback-last-error-first
   - Thenable
-  - Promise 🖐️ used
-  - Async/await 🖐️ used
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future
   - Deferred
-  - Sync generator 👂 heard
-  - Async Generator 👂 heard
-  - Async Iterator 👂 heard
-  - Event 🎓 known
-  - Coroutine
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🎓 known
+  - Coroutine: 👂 heard
   - Goroutine
-  - Signal
+  - Signal: 👂 heard
   - Stream
   - Chain of responsibility
-  - Middleware 🖐️ used
+  - Middleware: 🖐️ used
   - Locks
 - Async adapters and utils
-  - callbackify 👂 heard
-  - promisify 👂 heard
+  - callbackify: 👂 heard
+  - promisify: 👂 heard
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter 🎓 known
-  - Observable/Observer 🎓 known
-  - Readable 🎓 known
-  - Writable 🎓 known
+  - EventEmitter: 🎓 known
+  - Observable/Observer: 🎓 known
+  - Readable: 🎓 known
+  - Writable: 🎓 known
   - Transform
-  - Async Pool 👂 heard
-  - Async Queue 👂 heard
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers 🎓 known
+  - Timers: 🎓 known
   - `setImmediate`
   - `nextTick`
-  - AbortController
-  - AbortSignal
+  - AbortController: 👂 heard
+  - AbortSignal: 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
@@ -78,8 +78,8 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
-  - Promise.all 🎓 known
+  - RxJS library: 🎓 known
+  - Promise.all: 🎓 known
   - Promise.allSettled
   - Promise.race
   - Promise.any

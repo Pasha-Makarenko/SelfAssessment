@@ -1,24 +1,24 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming 🎓 known
+  - Procedural programming: 🎓 known
   - Imperative programming
-  - Structured programming 🎓 known
+  - Structured programming: 🎓 known
   - Non-structured programming
-  - Functional programming 🎓 known
+  - Functional programming: 🎓 known
   - Prototype-based programming
-  - Object-oriented programming 🎓 known
+  - Object-oriented programming: 🎓 known
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming 👂 heard
-  - Parallel programming 👂 heard
+  - Asynchronous programming: 👂 heard
+  - Parallel programming: 👂 heard
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming 🎓 known
-  - Metaprogramming
+  - Multi-paradigm programming: 🎓 known
+  - Metaprogramming: 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -27,60 +27,60 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor 🖐️ used
-  - Operator `new` 🖐️ used
-  - Static method 🖐️ used
-  - Method 🖐️ used
-  - Async method 🖐️ used
-  - Getters, Setters 🖐️ used
-  - Public fields 🖐️ used
-  - Private fields 🖐️ used
-  - Field declarations 🖐️ used
-  - Inheritance 🖐️ used
-  - Parent class 🖐️ used
+  - Constructor: 🖐️ used
+  - Operator `new`: 🖐️ used
+  - Static method: 🖐️ used
+  - Method: 🖐️ used
+  - Async method: 🖐️ used
+  - Getters, Setters: 🖐️ used
+  - Public fields: 🖐️ used
+  - Private fields: 🖐️ used
+  - Field declarations: 🖐️ used
+  - Inheritance: 🖐️ used
+  - Parent class: 🖐️ used
   - Polymorphism
-  - Abstract class 🖐️ used
-  - Interface 🖐️ used
-  - Encapsulation 👂 heard
+  - Abstract class: 🖐️ used
+  - Interface: 🖐️ used
+  - Encapsulation: 👂 heard
   - Hidden class
   - Object form
-  - Instance 🖐️ used
+  - Instance: 🖐️ used
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
   - Information expert
   - Creator
-  - Controller 
+  - Controller: 🎓 known
   - Indirection
-  - Low coupling
-  - High cohesion
+  - Low coupling: 🎓 known
+  - High cohesion: 🎓 known
   - Protected variations
   - Pure fabrication
 - SOLID
-  - Single-responsibility principle (SRP) 👂 heard
-  - Open–closed principle (OCP) 👂 heard
-  - Liskov substitution principle (LSP) 👂 heard
-  - Interface segregation principle (ISP) 👂 heard
-  - Dependency inversion principle (DIP) 👂 heard
+  - Single-responsibility principle (SRP): 👂 heard
+  - Open–closed principle (OCP): 👂 heard
+  - Liskov substitution principle (LSP): 👂 heard
+  - Interface segregation principle (ISP): 👂 heard
+  - Dependency inversion principle (DIP): 👂 heard
 - Patterns
-  - Singleton 👂 heard
-  - Factory Method 👂 heard
-  - Abstract Factory 👂 heard
-  - Adapter 👂 heard
-  - Observer 👂 heard
+  - Singleton: 👂 heard
+  - Factory Method: 👂 heard
+  - Abstract Factory: 👂 heard
+  - Adapter: 👂 heard
+  - Observer: 👂 heard
   - Strategy
-  - Facade 👂 heard
+  - Facade: 👂 heard
   - Proxy
   - Chain of Responsibility
   - Command
   - Iterator
   - State
-  - Bridge 👂 heard
-  - Builder 👂 heard
+  - Bridge: 👂 heard
+  - Builder: 👂 heard
   - Prototype
   - Composite
-  - Decorator 👂 heard
+  - Decorator: 👂 heard
   - Flyweight
   - Mediator
   - Memento
