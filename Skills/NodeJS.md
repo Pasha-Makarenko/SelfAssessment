@@ -11,23 +11,23 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules 🖐️ used
-  - ECMAScript modules  👂 heard
-  - Module `node:module` 🖐️ used
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons 👂 heard
+  - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` 🙋 explained
-  - Files `package.json`, `package-lock.json` 🙋 explained
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection 🖐️ used
+  - Dependency injection: 🖐️ used
   - DI containers
   - Coupling and cohesion
   - Framework agnostic approach
 - Environment
-  - Command line arguments 🖐️ used
-  - Node.js CLI 👂 heard
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
   - Clustering
@@ -38,8 +38,8 @@
   - Crypto API
   - Password hashing with crypto.scrypt
   - Web Crypto API
-  - File system API (sync and async) 🎓 known
-  - Copy folder recursively 🎓 known
+  - File system API (sync and async): 🎓 known
+  - Copy folder recursively: 🎓 known
   - Worker threads
   - Performance hooks
   - Native fetch and nodejs/undici
@@ -65,55 +65,55 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API 🙋 explained
+  - Fetch API: 🙋 explained
   - IncomingMessage
-  - HTTP(S) 🙋 explained
+  - HTTP(S): 🙋 explained
   - TCP/SSL
   - UDP
   - TLS
-  - Websocket 👂 heard
+  - Websocket: 👂 heard
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling 👂 heard
-  - REST 🙋 explained
+  - Long polling: 👂 heard
+  - REST: 🙋 explained
   - RPC
-  - Routing 🖐️ used
-  - DoS 👂 heard
-  - DDoS 👂 heard
+  - Routing: 🖐️ used
+  - DoS: 👂 heard
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS 👂 heard
-  - SQL injection 🖐️ used
+  - DNS: 👂 heard
+  - SQL injection: 🖐️ used
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner 👂 heard
-  - Logging 🖐️ used
-  - Application configuring 🙋 explained
-  - Testing 🖐️ used
+  - Native test runner: 👂 heard
+  - Logging: 🖐️ used
+  - Application configuring: 🙋 explained
+  - Testing: 🖐️ used
   - CI/CD
-  - Readable 🖐️ used
-  - Writable 🖐️ used
+  - Readable: 🖐️ used
+  - Writable: 🖐️ used
   - Transform
   - Back pressure
-  - Buffer 🖐️ used
-  - Console 🖐️ used
+  - Buffer: 🖐️ used
+  - Console: 🖐️ used
   - Inspector
 - Data access
   - Data access layer
-  - Repository 🙋 explained
+  - Repository: 🙋 explained
   - Active record
   - Query builder
-  - Object-Relational Mapping 👂 heard
-  - CRUD 🙋 explained
+  - Object-Relational Mapping: 👂 heard
+  - CRUD: 🙋 explained
   - DTO
 - Error handling and debugging
-  - `Error` 🖐️ used
+  - `Error`: 🖐️ used
   - `error.cause`
   - `error.code`
-  - `error.message` 🖐️ used
+  - `error.message`: 🖐️ used
   - `error.stack`
   - `Error.captureStackTrace`
   - How to avoid mixins
@@ -126,8 +126,8 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons 👂 heard
-  - `Rust` addons 👂 heard
+  - `C` and `C++` addons: 👂 heard
+  - `Rust` addons: 👂 heard
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
@@ -135,9 +135,9 @@
   - NAPI `Rust`
   - NAPI `Zig`
   - Webassembly `WAT`
-  - Webassembly `C` and `C++` 👂 heard
-  - Webassembly `Rust` 👂 heard
+  - Webassembly `C` and `C++`: 👂 heard
+  - Webassembly `Rust`: 👂 heard
   - Webassembly `Zig`
-  - Webassembly `AssemblyScript` 👂 heard
+  - Webassembly `AssemblyScript`: 👂 heard
   - Shared memory
   - V8 binary serialization

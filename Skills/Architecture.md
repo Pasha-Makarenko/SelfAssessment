@@ -1,46 +1,46 @@
 ## Architecture
 
 - Application structure
-  - Modularity 🎓 known
-  - Components 🎓 known
-  - Directories 🎓 known
-  - GRASP 👂 heard
-  - SOLID 👂 heard
-  - GoF patterns 👂 heard
+  - Modularity: 🎓 known
+  - Components: 🎓 known
+  - Directories: 🎓 known
+  - GRASP: 👂 heard
+  - SOLID: 👂 heard
+  - GoF patterns: 👂 heard
   - CQS
-  - Leaking abstractions 👂 heard
-  - Multiparadigm code 👂 heard
-  - Contract programming 🎓 known
-  - Platform-agnostic 👂 heard
-  - Transport-agnostic 👂 heard
-  - Framework-agnostic 👂 heard
+  - Leaking abstractions: 👂 heard
+  - Multiparadigm code: 👂 heard
+  - Contract programming: 🎓 known
+  - Platform-agnostic: 👂 heard
+  - Transport-agnostic: 👂 heard
+  - Framework-agnostic: 👂 heard
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability 🎓 known
-  - Quality 🎓 known
-  - Availability 🎓 known
-  - Flexibility 🎓 known
+  - Reliability: 🎓 known
+  - Quality: 🎓 known
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer 👂 heard
+  - Isolation between layer: 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming 👂 heard
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
-  - Dependency injection (DI) 🖐️ used
-  - Clean architecture 👂 heard
+  - Dependency injection (DI): 🖐️ used
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
-  - Pub/sub 👂 heard
+  - Pub/sub: 👂 heard
   - Message brocker
-  - Agent 👂 heard
+  - Agent: 👂 heard
   - Service locator
   - Message Queue (MQ)
-  - CQRS 👂 heard
+  - CQRS: 👂 heard
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
@@ -51,13 +51,13 @@
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways 🎓 known
+  - Gateways: 🎓 known
   - On-premises
   - IaaS
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless 🎓 known
+  - Serverless: 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -82,13 +82,13 @@
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
-  - Integration with subsystems 👂 heard
+  - Integration with subsystems: 👂 heard
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope 👂 heard
+  - Project scope: 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices 👂 heard
+  - Microservices: 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance 👂 heard
+  - Quality assurance: 👂 heard
   - Engineering Hygiene
