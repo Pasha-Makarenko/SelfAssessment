@@ -1,30 +1,30 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
+  - Modularity 🎓 known
+  - Components 🎓 known
+  - Directories 🎓 known
   - GRASP
-  - SOLID
-  - GoF patterns
+  - SOLID 👂 heard
+  - GoF patterns 👂 heard
   - CQS
-  - Leaking abstractions
-  - Multiparadigm code
-  - Contract programming
-  - Platform-agnostic
-  - Transport-agnostic
-  - Framework-agnostic
+  - Leaking abstractions 👂 heard
+  - Multiparadigm code 👂 heard
+  - Contract programming 🎓 known
+  - Platform-agnostic 👂 heard
+  - Transport-agnostic 👂 heard
+  - Framework-agnostic 👂 heard
   - Code coverage
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability 🎓 known
+  - Quality 🎓 known
+  - Availability 🎓 known
+  - Flexibility 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
-  - Isolation between layer
+  - Isolation between layer 👂 heard
   - Domain-specific language (DSL)
   - System vs applied code
   - Multilayer approach
@@ -32,15 +32,15 @@
   - Separation of concerns (SoC)
   - Metaprogramming
   - Inversion of control (IoC)
-  - Dependency injection (DI)
-  - Clean architecture
+  - Dependency injection (DI) 🖐️ used
+  - Clean architecture 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
   - Agent
   - Service locator
   - Message Queue (MQ)
-  - CQRS
+  - CQRS 👂 heard
   - Event sourcing
   - E-R data modeling
   - Entity-relationship diagram
@@ -51,7 +51,7 @@
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways 🎓 known
   - On-premises
   - IaaS
   - PaaS
@@ -82,10 +82,10 @@
 - Enterprise architecture
   - Understanding business needs
   - Enterprise strategy
-  - Integration with subsystems
+  - Integration with subsystems 👂 heard
   - Enterprise vision
   - Enterprise capabilities
-  - Project scope
+  - Project scope 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
   - Microservices
@@ -96,5 +96,5 @@
   - OLAP
   - OLTP
   - Conways Law
-  - Quality assurance
+  - Quality assurance 👂 heard
   - Engineering Hygiene

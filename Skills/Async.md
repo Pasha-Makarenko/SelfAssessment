@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
-  - Non-blocking
-  - Async I/O
+  - Event loop 🎓 known
+  - `try..catch` 🖐️ used
+  - Non-blocking 🎓 known
+  - Async I/O 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -22,44 +22,44 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks
+  - Callbacks 🖐️ used
   - Callback-last-error-first
   - Thenable
-  - Promise
-  - Async/await
+  - Promise 🖐️ used
+  - Async/await 🖐️ used
   - Future
   - Deferred
-  - Sync generator
-  - Async Generator
-  - Async Iterator
-  - Event
+  - Sync generator 👂 heard
+  - Async Generator 👂 heard
+  - Async Iterator 👂 heard
+  - Event 🎓 known
   - Coroutine
   - Goroutine
   - Signal
   - Stream
   - Chain of responsibility
-  - Middleware
+  - Middleware 🖐️ used
   - Locks
 - Async adapters and utils
-  - callbackify
-  - promisify
+  - callbackify 👂 heard
+  - promisify 👂 heard
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter
-  - Observable/Observer
-  - Readable
-  - Writable
+  - EventEmitter 🎓 known
+  - Observable/Observer 🎓 known
+  - Readable 🎓 known
+  - Writable 🎓 known
   - Transform
-  - Async Pool
-  - Async Queue
+  - Async Pool 👂 heard
+  - Async Queue 👂 heard
   - Async Collector
   - Semaphore
   - Mutex
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers
+  - Timers 🎓 known
   - `setImmediate`
   - `nextTick`
   - AbortController
@@ -79,7 +79,7 @@
 - Techniques
   - Async.js library
   - RxJS library
-  - Promise.all
+  - Promise.all 🎓 known
   - Promise.allSettled
   - Promise.race
   - Promise.any
