@@ -1,8 +1,8 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop 🎓 known
-  - `try..catch` 🖐️ used
+  - Event loop 🙋 explained
+  - `try..catch` 🙋 explained
   - Non-blocking 🎓 known
   - Async I/O 🎓 known
   - Thread pool
@@ -22,20 +22,20 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks 🖐️ used
+  - Callbacks 🙋 explained
   - Callback-last-error-first
   - Thenable
-  - Promise 🖐️ used
-  - Async/await 🖐️ used
+  - Promise 🙋 explained
+  - Async/await 🙋 explained
   - Future
   - Deferred
   - Sync generator 👂 heard
   - Async Generator 👂 heard
   - Async Iterator 👂 heard
   - Event 🎓 known
-  - Coroutine
+  - Coroutine 👂 heard
   - Goroutine
-  - Signal
+  - Signal 👂 heard
   - Stream
   - Chain of responsibility
   - Middleware 🖐️ used
@@ -62,8 +62,8 @@
   - Timers 🎓 known
   - `setImmediate`
   - `nextTick`
-  - AbortController
-  - AbortSignal
+  - AbortController 👂 heard
+  - AbortSignal 👂 heard
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
@@ -78,7 +78,7 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library
+  - RxJS library 🎓 known
   - Promise.all 🎓 known
   - Promise.allSettled
   - Promise.race

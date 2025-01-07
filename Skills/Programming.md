@@ -4,22 +4,22 @@
   - Model 🖐️ used
   - Modeling 🖐️ used
   - Subject domain
-  - Algorithm 🖐️ used
-  - Syntax 🖐️ used
+  - Algorithm 🙋 explained
+  - Syntax 🙋 explained
   - Semantics 🖐️ used
-  - Abstraction 🖐️ used
+  - Abstraction 🙋 explained
   - Paradigm 🎓 known
   - Programm 🎓 known
   - Programming paradigm 🎓 known
-  - Programming language 🖐️ used
+  - Programming language 🙋 explained
   - Contract 🎓 known
   - Module 🖐️ used
-  - Library 🖐️ used
-  - Package 🖐️ used
-  - Component 🖐️ used
-  - Framework 🖐️ used
+  - Library 🙋 explained
+  - Package 🙋 explained
+  - Component 🙋 explained
+  - Framework 🙋 explained
   - Platform 🖐️ used
-  - Source code 🖐️ used
+  - Source code 🙋 explained
   - Object code
   - Machine code 🎓 known
   - Microcode
@@ -32,48 +32,48 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value 🖐️ used
-  - Identifier 🖐️ used
-  - Variable 🖐️ used
-  - Constant 🖐️ used
-  - Scalar 🖐️ used
-  - Literal 🖐️ used
-  - Expression 🖐️ used
+  - Value 🙋 explained
+  - Identifier 🙋 explained
+  - Variable 🙋 explained
+  - Constant 🙋 explained
+  - Scalar 🙋 explained
+  - Literal 🙋 explained
+  - Expression 🙋 explained
   - Heap 🎓 known
-  - Function 🖐️ used
-  - Procedure 🖐️ used
-  - Method 🖐️ used
-  - Class 🖐️ used
-  - Prototype 🖐️ used
-  - Event 🖐️ used
-  - Type 🖐️ used
-  - Flag 🖐️ used
+  - Function 🙋 explained
+  - Procedure 🙋 explained
+  - Method 🙋 explained
+  - Class 🙋 explained
+  - Prototype 🙋 explained
+  - Event 🙋 explained
+  - Type 🙋 explained
+  - Flag 🙋 explained
   - Lexical scope
-  - Code block 🖐️ used
-  - Conditions 🖐️ used
-  - Loops 🖐️ used
-  - Assignment 🖐️ used
-  - Regular expression 🖐️ used
-  - Interface 🖐️ used
-  - Namespaces 🖐️ used
+  - Code block 🙋 explained
+  - Conditions 🙋 explained
+  - Loops 🙋 explained
+  - Assignment 🙋 explained
+  - Regular expression 🙋 explained
+  - Interface 🙋 explained
+  - Namespaces 🙋 explained
   - Call stack
   - Naming conventions
   - Coding conventions
-  - Camel case 🖐️ used
-  - Snake case 🖐️ used
+  - Camel case 🙋 explained
+  - Snake case 🙋 explained
   - Kebab case
   - Trailing commas 🎓 known
   - Return early 🎓 known
   - Fail-fast
 - Types
-  - Primitive types 🖐️ used
+  - Primitive types 🙋 explained
   - Reference types 
   - Type systems
   - Strong typing
   - Weak typing
   - Duck typing
-  - Static typing 🖐️ used
-  - Dynamic typing 🖐️ used
+  - Static typing 🙋 explained
+  - Dynamic typing 🙋 explained
   - Nominal typing
   - Structural typing
   - Explicit typing
@@ -81,20 +81,20 @@
   - Covariance
   - Contravariance
 - Functions
-  - Signature 🖐️ used
-  - Argument 🖐️ used
-  - Parameter 🖐️ used
+  - Signature 🙋 explained
+  - Argument 🙋 explained
+  - Parameter 🙋 explained
   - Pure function 🖐️ used
-  - Lambda expression 🖐️ used
+  - Lambda expression 🙋 explained
   - Side effects 🎓 known
-  - Closure 🖐️ used
+  - Closure 🙋 explained
   - Partial application
   - Currying
   - Higher order
-  - Recursion 🖐️ used
+  - Recursion 🙋 explained
   - Tail call optimisation
-  - Callback 🖐️ used
-  - Listener 🖐️ used
+  - Callback 🙋 explained
+  - Listener 🙋 explained
   - Composition
   - Pipe
   - Memoize
@@ -105,16 +105,16 @@
   - Generator 👂 heard
   - Coroutine 👂 heard
 - Data structures
-  - Array 🖐️ used
-  - Structure 🖐️ used
+  - Array 🙋 explained
+  - Structure 🙋 explained
   - Record 
-  - Enum 🖐️ used
-  - Instance 🖐️ used
-  - Object 🖐️ used
+  - Enum 🙋 explained
+  - Instance 🙋 explained
+  - Object 🙋 explained
   - Collection 🖐️ used
   - Set 🖐️ used
   - Hash table 🖐️ used
-  - Linked list 🖐️ used
+  - Linked list 🙋 explained
   - Doubly list
   - Unrolled list
   - Circular list
@@ -142,13 +142,13 @@
   - URN
   - URI
 - Process and tools
-  - Compiler 🎓 known
+  - Compiler 🙋 explained
   - Just-in-time compilation
   - Ahead-of-time compilation
   - Transpiler
-  - Linter 🖐️ used
-  - Polyfill
-  - Interpreter 🎓 known
+  - Linter 🙋 explained
+  - Polyfill 🎓 known
+  - Interpreter 🙋 explained
   - Linker
   - Dynamic linking
   - Static linking
@@ -160,40 +160,40 @@
   - Debugger 🖐️ used
   - Tracing
   - Garbage collection
-  - Refactoring 🖐️ used
+  - Refactoring 🙋 explained
   - Code review 🖐️ used
   - Exception 🖐️ used
   - Unittesting 🖐️ used
-  - git 🖐️ used
-  - Github 🖐️ used
+  - git 🙋 explained
+  - Github 🙋 explained
   - Docker 🎓 known
   - Kubernetes 👂 heard
   - GCC
   - LLVM
 - Antipatterns
-  - Magic numbers 👂 heard
+  - Magic numbers 🙋 explained
   - Hard code 🎓 known
   - Soft code 🎓 known
   - Cryptic code
   - Improbability factor
   - Accidental complexity
   - Action at a distance
-  - Spaghetti
-  - Silver bullet
+  - Spaghetti 🙋 explained
+  - Silver bullet 🙋 explained
   - Not invented here
-  - Dead code
+  - Dead code 🙋 explained
   - Unreachable code
-  - Duplicate code 🎓 known
+  - Duplicate code 🙋 explained
   - Premature optimization
   - Micro-optimization
-  - Nested loops
-  - Long method/function/procedure 🎓 known
-  - Long inheritance
-  - Large class/file 🎓 known
-  - Too many parameters 🎓 known
+  - Nested loops 🙋 explained
+  - Long method/function/procedure 🙋 explained
+  - Long inheritance 🙋 explained
+  - Large class/file 🙋 explained
+  - Too many parameters 🙋 explained
   - Pass-through parameters
   - Accumulate and fire
-  - Use switch/case
+  - Use switch/case 🙋 explained
   - Temporary field
   - Handle object as instances and hashes at the same time 🎓 known
   - Use fields instead of arguments 🎓 known

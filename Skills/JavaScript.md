@@ -5,15 +5,15 @@
   - `Function` 🙋 explained
   - `Boolean` 🙋 explained
   - `Number` 🙋 explained
-  - `BigInt` 🖐️ used
+  - `BigInt` 🙋 explained
   - `String` 🙋 explained
   - `Symbol` 🖐️ used
-  - `Infinity` 🖐️ used
-  - `NaN` 🖐️ used
+  - `Infinity` 🙋 explained
+  - `NaN` 🙋 explained
   - `undefined` 🖐️ used
   - `null` 🖐️ used
   - `this` 🙋 explained
-  - `instanceof` 🖐️ used
+  - `instanceof` 🙋 explained
   - `...spread` 🙋 explained
   - `...rest` 🙋 explained
   - `typeof` 🙋 explained
@@ -30,16 +30,16 @@
   - `globalThis`
   - `window` 🖐️ used
   - Getters and setters
-  - `__proto__` 🎓 known
-  - `prototype` 🎓 known
+  - `__proto__` 🙋 explained
+  - `prototype` 🙋 explained
   - Equality operators 🙋 explained
   - Logical operators 🙋 explained
   - Logical Assignment 🖐️ used
   - Bitwise operators 🖐️ used
   - Ternary operator 🙋 explained
-  - `void` 🖐️ used
+  - `void` 🙋 explained
   - `yield` 🎓 known
-  - `await` 🖐️ used
+  - `await` 🙋 explained
   - Template literal
   - Strict mode 🎓 known
   - Hoisting 🎓 known
@@ -54,45 +54,45 @@
   - Sealing properties
   - Freezing properties
   - Computed properties
-  - Instance class fields 🖐️ used
-  - Static class fields 🖐️ used
-  - Private class fields 🖐️ used
-  - Private class methods 🖐️ used
+  - Instance class fields 🙋 explained
+  - Static class fields 🙋 explained
+  - Private class fields 🙋 explained
+  - Private class methods 🙋 explained
 - Statements
-  - `if` 🖐️ used
-  - `while` 🖐️ used
-  - `do..while` 🖐️ used
-  - `for` 🖐️ used
-  - `for..in` 🖐️ used
-  - `for..of` 🖐️ used
+  - `if` 🙋 explained
+  - `while` 🙋 explained
+  - `do..while` 🙋 explained
+  - `for` 🙋 explained
+  - `for..in` 🙋 explained
+  - `for..of` 🙋 explained
   - `for await` 👂 heard
-  - `throw` 🖐️ used
-  - `break` 🖐️ used
-  - `continue` 🖐️ used
+  - `throw` 🙋 explained
+  - `break` 🙋 explained
+  - `continue` 🙋 explained
   - `import` 🙋 explained
   - `export` 🙋 explained
-  - `label`
-  - `try..catch` 🖐️ used
+  - `label` 👂 heard
+  - `try..catch` 🙋 explained
   - `switch` 🖐️ used
   - `class` 🙋 explained
   - `extends` 🙋 explained
   - `with`
   - `new` 🙋 explained
 - Functions
-  - Arrow function 🖐️ used
-  - Async function 🖐️ used
-  - Function declaration 🖐️ used
-  - Function expression 🖐️ used
-  - Default parameters 🖐️ used
-  - Functional object 🖐️ used
-  - `Function.prototype.call` 🖐️ used
-  - `Function.prototype.bind` 🖐️ used
-  - `Function.prototype.apply` 🖐️ used
-  - `return` 🖐️ used
+  - Arrow function 🙋 explained
+  - Async function 🙋 explained
+  - Function declaration 🙋 explained
+  - Function expression 🙋 explained
+  - Default parameters 🙋 explained
+  - Functional object 🙋 explained
+  - `Function.prototype.call` 🙋 explained
+  - `Function.prototype.bind` 🙋 explained
+  - `Function.prototype.apply` 🙋 explained
+  - `return` 🙋 explained
 - Data structures
-  - `Array` 🖐️ used
-  - `Map` 🖐️ used
-  - `Set` 🖐️ used
+  - `Array` 🙋 explained
+  - `Map` 🙋 explained
+  - `Set` 🙋 explained
   - `WeakMap` 🎓 known
   - `WeakSet` 🎓 known
   - Typed arrays 🎓 known
@@ -100,8 +100,8 @@
   - `Object.assign` 🎓 known
 - Standard classes and namespaces
   - `Proxy` 🎓 known
-  - `RegExp` 🖐️ used
-  - `Date` 🖐️ used
+  - `RegExp` 🙋 explained
+  - `Date` 🙋 explained
   - `Math` 🖐️ used
   - `Reflect`
   - `Error` 🖐️ used
@@ -110,13 +110,13 @@
   - `WeakRef`
   - `FinalizationRegistry`
   - `Intl`
-  - `Promise` 🖐️ used
+  - `Promise` 🙋 explained
   - `console` 🖐️ used
   - Timers 🖐️ used
 - Infrastructure
   - V8 🎓 known
   - Node.js 🖐️ used
   - npm 🖐️ used
-  - prettier 🖐️ used
+  - prettier 🙋 explained
   - MDN 🖐️ used
   - TC39

@@ -4,7 +4,7 @@
   - Modularity 🎓 known
   - Components 🎓 known
   - Directories 🎓 known
-  - GRASP
+  - GRASP 👂 heard
   - SOLID 👂 heard
   - GoF patterns 👂 heard
   - CQS
@@ -30,14 +30,14 @@
   - Multilayer approach
   - Hexagonal architecture
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI) 🖐️ used
   - Clean architecture 👂 heard
   - Domain-driven design (DDD)
-  - Pub/sub
+  - Pub/sub 👂 heard
   - Message brocker
-  - Agent
+  - Agent 👂 heard
   - Service locator
   - Message Queue (MQ)
   - CQRS 👂 heard
@@ -57,7 +57,7 @@
   - PaaS
   - SaaS
   - FaaS clouds
-  - Serverless
+  - Serverless 🎓 known
   - Vendor lock-in
   - Bus factor
 - Solution architecture
@@ -88,7 +88,7 @@
   - Project scope 👂 heard
   - Enterprise service bus
   - Service-oriented architecture
-  - Microservices
+  - Microservices 👂 heard
   - Process choreography
   - Service orchestration
   - Data warehouse

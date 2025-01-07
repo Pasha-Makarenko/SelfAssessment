@@ -17,8 +17,8 @@
   - Caching in CJS and ESM
   - Modules as singletons 👂 heard
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules` 🖐️ used
-  - Files `package.json`, `package-lock.json` 🖐️ used
+  - Dependencies: `npm`, `node_modules` 🙋 explained
+  - Files `package.json`, `package-lock.json` 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
   - Dependency injection 🖐️ used
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API 🖐️ used
+  - Fetch API 🙋 explained
   - IncomingMessage
-  - HTTP(S) 🖐️ used
+  - HTTP(S) 🙋 explained
   - TCP/SSL
   - UDP
   - TLS
@@ -75,7 +75,7 @@
   - SSE
   - HTTP/3 (QUIC)
   - Long polling 👂 heard
-  - REST 🖐️ used
+  - REST 🙋 explained
   - RPC
   - Routing 🖐️ used
   - DoS 👂 heard
@@ -91,7 +91,7 @@
 - Technique and tools
   - Native test runner 👂 heard
   - Logging 🖐️ used
-  - Application configuring 🖐️ used
+  - Application configuring 🙋 explained
   - Testing 🖐️ used
   - CI/CD
   - Readable 🖐️ used
@@ -103,11 +103,11 @@
   - Inspector
 - Data access
   - Data access layer
-  - Repository 🖐️ used
+  - Repository 🙋 explained
   - Active record
   - Query builder
   - Object-Relational Mapping 👂 heard
-  - CRUD 🖐️ used
+  - CRUD 🙋 explained
   - DTO
 - Error handling and debugging
   - `Error` 🖐️ used
@@ -126,8 +126,8 @@
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons
-  - `Rust` addons
+  - `C` and `C++` addons 👂 heard
+  - `Rust` addons 👂 heard
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
@@ -135,9 +135,9 @@
   - NAPI `Rust`
   - NAPI `Zig`
   - Webassembly `WAT`
-  - Webassembly `C` and `C++`
-  - Webassembly `Rust`
+  - Webassembly `C` and `C++` 👂 heard
+  - Webassembly `Rust` 👂 heard
   - Webassembly `Zig`
-  - Webassembly `AssemblyScript`
+  - Webassembly `AssemblyScript` 👂 heard
   - Shared memory
   - V8 binary serialization

@@ -18,7 +18,7 @@
   - Automata-based programming
   - Domain-specific languages
   - Multi-paradigm programming 🎓 known
-  - Metaprogramming
+  - Metaprogramming 👂 heard
   - Actor model
   - Lambda calculus
   - Black box
@@ -51,10 +51,10 @@
 - GRASP
   - Information expert
   - Creator
-  - Controller 
+  - Controller 🎓 known
   - Indirection
-  - Low coupling
-  - High cohesion
+  - Low coupling 🎓 known
+  - High cohesion 🎓 known
   - Protected variations
   - Pure fabrication
 - SOLID

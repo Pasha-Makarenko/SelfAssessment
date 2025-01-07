@@ -1,13 +1,13 @@
 ## Databases
 
 - Theory and concepts
-  - Data types 🖐️ used
+  - Data types 🙋 explained
   - Performance tuning
   - Migrations
   - Schema versioning
   - Backup and recovery
   - Database scalability
-  - Relational databases 🖐️ used
+  - Relational databases 🙋 explained
   - Key-value store
   - Tuple store
   - Graph databases 👂 heard
@@ -25,13 +25,13 @@
   - Entity-Relationship Diagram 🎓 known
   - Normal forms
   - Indexing 🖐️ used
-  - Primary keys 🖐️ used
-  - Foreign keys 🖐️ used
+  - Primary keys 🙋 explained
+  - Foreign keys 🙋 explained
   - Transactions
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions 🖐️ used
+  - SQL functions 🙋 explained
   - Materialized views
   - Replications
   - Virtualization
