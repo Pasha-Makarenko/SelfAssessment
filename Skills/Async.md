@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: e
-  - `try..catch`: e
-  - Non-blocking: k
-  - Async I/O: k
+  - Event loop: 🙋 explained
+  - `try..catch`: 🙋 explained
+  - Non-blocking: 🎓 known
+  - Async I/O: 🎓 known
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,7 +13,7 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions: e
+  - Race conditions: 🙋 explained
   - Dead locks
   - Live locks
   - Concurrent programming
@@ -22,48 +22,48 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks: e
+  - Callbacks: 🙋 explained
   - Callback-last-error-first
-  - Thenable: e
-  - Promise: e
-  - Async/await: e
+  - Thenable: 🙋 explained
+  - Promise: 🙋 explained
+  - Async/await: 🙋 explained
   - Future
   - Deferred
-  - Sync generator: e
-  - Async Generator: e
-  - Async Iterator: e
-  - Event: e
-  - Coroutine: k
-  - Goroutine: h
-  - Signal: e
-  - Stream: k
-  - Chain of responsibility: e
-  - Middleware: e
+  - Sync generator: 🙋 explained
+  - Async Generator: 🙋 explained
+  - Async Iterator: 🙋 explained
+  - Event: 🙋 explained
+  - Coroutine: 🎓 known
+  - Goroutine: 👂 heard
+  - Signal: 🙋 explained
+  - Stream: 🎓 known
+  - Chain of responsibility: 🙋 explained
+  - Middleware: 🙋 explained
   - Locks
 - Async adapters and utils
-  - callbackify: k
-  - promisify: k
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter: e
-  - Observable/Observer: e
-  - Readable: k
-  - Writable: k
-  - Transform: u
-  - Async Pool: k
-  - Async Queue: k
+  - EventEmitter: 🙋 explained
+  - Observable/Observer: 🙋 explained
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🖐️ used
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
   - Async Collector
   - Semaphore
-  - Mutex: h
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: u
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
-  - AbortController: u
-  - AbortSignal: u
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
@@ -78,11 +78,11 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library: e
-  - Promise.all: u
+  - RxJS library: 🙋 explained
+  - Promise.all: 🖐️ used
   - Promise.allSettled
   - Promise.race
-  - Promise.any: k
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API

@@ -11,38 +11,38 @@
   - I/O-bound, CPU-bound, memory-bound tasks
   - Interactive applications (close to real-time)
 - Modularity, layers and dependencies
-  - CommonJS modules: u
-  - ECMAScript modules: h
-  - Module `node:module`: u
+  - CommonJS modules: 🖐️ used
+  - ECMAScript modules: 👂 heard
+  - Module `node:module`: 🖐️ used
   - Caching in CJS and ESM
-  - Modules as singletons: h
+  - Modules as singletons: 👂 heard
   - Contexts and scripts module `node:vm`
-  - Dependencies: `npm`, `node_modules`: e
-  - Files `package.json`, `package-lock.json`: e
+  - Dependencies: `npm`, `node_modules`: 🙋 explained
+  - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection: e
-  - DI containers: e
-  - Coupling and cohesion: e
+  - Dependency injection: 🙋 explained
+  - DI containers: 🙋 explained
+  - Coupling and cohesion: 🙋 explained
   - Framework agnostic approach
 - Environment
-  - Command line arguments: u
-  - Node.js CLI: h
+  - Command line arguments: 🖐️ used
+  - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
-  - Clustering: h
-  - Watch filesystem changes with --watch: u
+  - Clustering: 👂 heard
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API: k
-  - Web Streams API: k
-  - Crypto API: u
-  - Password hashing with crypto.scrypt: u
-  - Web Crypto API: k
-  - File system API (sync and async): k
-  - Copy folder recursively: k
-  - Worker threads: k
+  - Streams API: 🎓 known
+  - Web Streams API: 🎓 known
+  - Crypto API: 🖐️ used
+  - Password hashing with crypto.scrypt: 🖐️ used
+  - Web Crypto API: 🎓 known
+  - File system API (sync and async): 🎓 known
+  - Copy folder recursively: 🎓 known
+  - Worker threads: 🎓 known
   - Performance hooks
-  - Native fetch and nodejs/undici: u
+  - Native fetch and nodejs/undici: 🖐️ used
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -65,69 +65,69 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API: e
+  - Fetch API: 🙋 explained
   - IncomingMessage
-  - HTTP(S): e
-  - TCP/SSL: e
-  - UDP: e
+  - HTTP(S): 🙋 explained
+  - TCP/SSL: 🙋 explained
+  - UDP: 🙋 explained
   - TLS
-  - Websocket: k
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling: e
-  - REST: e
-  - RPC: e
-  - Routing: e
-  - DoS: e
-  - DDoS: e
-  - XSS: e
-  - Path traversal: e
-  - CSRF: k
-  - DNS: e
-  - SQL injection: e
+  - Long polling: 🙋 explained
+  - REST: 🙋 explained
+  - RPC: 🙋 explained
+  - Routing: 🙋 explained
+  - DoS: 🙋 explained
+  - DDoS: 🙋 explained
+  - XSS: 🙋 explained
+  - Path traversal: 🙋 explained
+  - CSRF: 🎓 known
+  - DNS: 🙋 explained
+  - SQL injection: 🙋 explained
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
-  - Native test runner: h
-  - Logging: e
-  - Application configuring: e
-  - Testing: e
-  - CI/CD: e
-  - Readable: k
-  - Writable: k
-  - Transform: u
+  - Native test runner: 👂 heard
+  - Logging: 🙋 explained
+  - Application configuring: 🙋 explained
+  - Testing: 🙋 explained
+  - CI/CD: 🙋 explained
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🖐️ used
   - Back pressure
-  - Buffer: u
-  - Console: e
-  - Inspector: k
+  - Buffer: 🖐️ used
+  - Console: 🙋 explained
+  - Inspector: 🎓 known
 - Data access
-  - Data access layer: k
-  - Repository: e
+  - Data access layer: 🎓 known
+  - Repository: 🙋 explained
   - Active record
-  - Query builder: e
-  - Object-Relational Mapping: h
-  - CRUD: e
-  - DTO: e
+  - Query builder: 🙋 explained
+  - Object-Relational Mapping: 👂 heard
+  - CRUD: 🙋 explained
+  - DTO: 🙋 explained
 - Error handling and debugging
-  - `Error`: u
+  - `Error`: 🖐️ used
   - `error.cause`
-  - `error.code`: u
-  - `error.message`: u
-  - `error.stack`: u
+  - `error.code`: 🖐️ used
+  - `error.message`: 🖐️ used
+  - `error.stack`: 🖐️ used
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools: u
+  - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks
   - Resource leaks
   - Data race
 - Integrations and bindings
   - Native addons
-  - `C` and `C++` addons: h
-  - `Rust` addons: h
+  - `C` and `C++` addons: 👂 heard
+  - `Rust` addons: 👂 heard
   - `Zig` addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)
@@ -135,9 +135,9 @@
   - NAPI `Rust`
   - NAPI `Zig`
   - Webassembly `WAT`
-  - Webassembly `C` and `C++`: h
-  - Webassembly `Rust`: h
+  - Webassembly `C` and `C++`: 👂 heard
+  - Webassembly `Rust`: 👂 heard
   - Webassembly `Zig`
-  - Webassembly `AssemblyScript`: h
+  - Webassembly `AssemblyScript`: 👂 heard
   - Shared memory
   - V8 binary serialization

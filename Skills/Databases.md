@@ -1,94 +1,94 @@
 ## Databases
 
 - Theory and concepts
-  - Data types: e
+  - Data types: 🙋 explained
   - Performance tuning
-  - Migrations: e
-  - Schema versioning: k
-  - Backup and recovery: k
-  - Database scalability: k
-  - Relational databases: e
-  - Key-value store: e
-  - Tuple store: k
-  - Graph databases: k
-  - Object databases: k
-  - Column databases: k
+  - Migrations: 🙋 explained
+  - Schema versioning: 🎓 known
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🎓 known
+  - Relational databases: 🙋 explained
+  - Key-value store: 🙋 explained
+  - Tuple store: 🎓 known
+  - Graph databases: 🎓 known
+  - Object databases: 🎓 known
+  - Column databases: 🎓 known
   - Navigational databases
   - Hierarchical databases
-  - In-memory databases: e
+  - In-memory databases: 🙋 explained
   - Inverted index
   - Data control language (DCL)
   - Data definition language (DDL)
   - Data manipulation language (DML)
   - Data query language (DQL)
 - Relational
-  - Entity-Relationship Diagram: e
+  - Entity-Relationship Diagram: 🙋 explained
   - Normal forms
-  - Indexing: e
-  - Primary keys: e
-  - Foreign keys: e
-  - Transactions: e
+  - Indexing: 🙋 explained
+  - Primary keys: 🙋 explained
+  - Foreign keys: 🙋 explained
+  - Transactions: 🙋 explained
   - Views
   - Subqueries
   - Stored procedures
-  - SQL functions: u
+  - SQL functions: 🖐️ used
   - Materialized views
-  - Replications: k
-  - Virtualization: k
+  - Replications: 🎓 known
+  - Virtualization: 🎓 known
 - SQL
-  - `SELECT`: u
-  - `INSERT`: u
-  - `UPDATE`: u
-  - `DELETE`: u
-  - `LIMIT`: u
+  - `SELECT`: 🖐️ used
+  - `INSERT`: 🖐️ used
+  - `UPDATE`: 🖐️ used
+  - `DELETE`: 🖐️ used
+  - `LIMIT`: 🖐️ used
   - `OFFSET`
-  - `ORDER BY`: u
-  - `GROUP BY`: u
-  - `HAVING`: u
-  - `EXISTS`: u
-  - `JOIN`: u
-  - `INNER JOIN`: u
-  - `LEFT JOIN`: u
-  - `RIGHT JOIN`: u
-  - `UNION`: u
-  - `DISTINCT`: u
-  - `WHERE`: u
-  - `LIKE`: u
-  - `IN`: u
-  - `BETWEEN`: u
-  - `CREATE TABLE`: u
-  - `ALTER TABLE`: u
-  - `DROP TABLE`: u
-  - `PRIMARY KEY`: u
-  - `FOREIGN KEY`: u
-  - `CHECK`: u
-  - `DEFAULT`: u
-  - `INDEX`: u
-  - `UNIQUE`: u
+  - `ORDER BY`: 🖐️ used
+  - `GROUP BY`: 🖐️ used
+  - `HAVING`: 🖐️ used
+  - `EXISTS`: 🖐️ used
+  - `JOIN`: 🖐️ used
+  - `INNER JOIN`: 🖐️ used
+  - `LEFT JOIN`: 🖐️ used
+  - `RIGHT JOIN`: 🖐️ used
+  - `UNION`: 🖐️ used
+  - `DISTINCT`: 🖐️ used
+  - `WHERE`: 🖐️ used
+  - `LIKE`: 🖐️ used
+  - `IN`: 🖐️ used
+  - `BETWEEN`: 🖐️ used
+  - `CREATE TABLE`: 🖐️ used
+  - `ALTER TABLE`: 🖐️ used
+  - `DROP TABLE`: 🖐️ used
+  - `PRIMARY KEY`: 🖐️ used
+  - `FOREIGN KEY`: 🖐️ used
+  - `CHECK`: 🖐️ used
+  - `DEFAULT`: 🖐️ used
+  - `INDEX`: 🖐️ used
+  - `UNIQUE`: 🖐️ used
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL: u
-  - Oracle: h
-  - MySQL: k
-  - MariaDB: h
-  - MS SQL Server: h
-  - Redis: u
-  - Rabbit: u
-  - MongoDB: u
-  - Memcached: u
+  - PostgreSQL: 🖐️ used
+  - Oracle: 👂 heard
+  - MySQL: 🎓 known
+  - MariaDB: 👂 heard
+  - MS SQL Server: 👂 heard
+  - Redis: 🖐️ used
+  - Rabbit: 🖐️ used
+  - MongoDB: 🖐️ used
+  - Memcached: 🖐️ used
   - Riak
   - DB2
-  - SQLite: k
-  - DynamoDB: h
-  - Firebase: k
+  - SQLite: 🎓 known
+  - DynamoDB: 👂 heard
+  - Firebase: 🎓 known
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data: h
+  - Big data: 👂 heard
   - Data analysis
-  - AI tools: u
-  - Cloud databases: u
-  - Data Visualization: u
+  - AI tools: 🖐️ used
+  - Cloud databases: 🖐️ used
+  - Data Visualization: 🖐️ used
