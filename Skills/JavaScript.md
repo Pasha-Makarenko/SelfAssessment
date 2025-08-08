@@ -7,49 +7,49 @@
   - `Number`: 🙋 explained
   - `BigInt`: 🙋 explained
   - `String`: 🙋 explained
-  - `Symbol`: 🖐️ used
+  - `Symbol`: 🙋 explained
   - `Infinity`: 🙋 explained
   - `NaN`: 🙋 explained
-  - `undefined`: 🖐️ used
-  - `null`: 🖐️ used
+  - `undefined`: 🙋 explained
+  - `null`: 🙋 explained
   - `this`: 🙋 explained
   - `instanceof`: 🙋 explained
   - `...spread`: 🙋 explained
   - `...rest`: 🙋 explained
   - `typeof`: 🙋 explained
-  - Destructuring: 🖐️ used
-  - Generators: 🎓 known
-  - Iterators: 🖐️ used
-  - Async generator: 👂 heard
-  - Async iterator: 👂 heard
-  - Chaining: 🖐️ used
-  - Optional chaining
-  - IIFE
-  - Async IIFE
-  - `global`: 🖐️ used
-  - `globalThis`
-  - `window`: 🖐️ used
-  - Getters and setters
+  - Destructuring: 🙋 explained
+  - Generators: 🙋 explained
+  - Iterators: 🙋 explained
+  - Async generator: 🙋 explained
+  - Async iterator: 🙋 explained
+  - Chaining: 🙋 explained
+  - Optional chaining: 🙋 explained
+  - IIFE: 🎓 known
+  - Async IIFE: 🎓 known
+  - `global`: 🙋 explained
+  - `globalThis`: 🙋 explained
+  - `window`: 🙋 explained
+  - Getters and setters: 🙋 explained
   - `__proto__`: 🙋 explained
   - `prototype`: 🙋 explained
   - Equality operators: 🙋 explained
   - Logical operators: 🙋 explained
-  - Logical Assignment: 🖐️ used
-  - Bitwise operators: 🖐️ used
+  - Logical Assignment: 🙋 explained
+  - Bitwise operators: 🙋 explained
   - Ternary operator: 🙋 explained
   - `void`: 🙋 explained
-  - `yield`: 🎓 known
+  - `yield`: 🙋 explained
   - `await`: 🙋 explained
   - Template literal
   - Strict mode: 🎓 known
   - Hoisting: 🎓 known
-  - `delete`: 🖐️ used
-  - `in`: 🖐️ used
+  - `delete`: 🙋 explained
+  - `in`: 🙋 explained
   - `super`: 🙋 explained
   - `eval`: 🙋 explained
   - `static`: 🙋 explained
-  - `Number.parseInt`: 🖐️ used
-  - `Number.parseFloat`: 🖐️ used
+  - `Number.parseInt`: 🙋 explained
+  - `Number.parseFloat`: 🙋 explained
   - Property descriptors: 🎓 known
   - Sealing properties
   - Freezing properties
@@ -65,7 +65,7 @@
   - `for`: 🙋 explained
   - `for..in`: 🙋 explained
   - `for..of`: 🙋 explained
-  - `for await`: 👂 heard
+  - `for await`: 🙋 explained
   - `throw`: 🙋 explained
   - `break`: 🙋 explained
   - `continue`: 🙋 explained
@@ -76,7 +76,7 @@
   - `switch`: 🖐️ used
   - `class`: 🙋 explained
   - `extends`: 🙋 explained
-  - `with`
+  - `with`: 🙋 explained
   - `new`: 🙋 explained
 - Functions
   - Arrow function: 🙋 explained
@@ -99,24 +99,24 @@
   - Mixins: 🎓 known
   - `Object.assign`: 🎓 known
 - Standard classes and namespaces
-  - `Proxy`: 🎓 known
+  - `Proxy`: 🙋 explained
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
   - `Math`: 🖐️ used
   - `Reflect`
-  - `Error`: 🖐️ used
+  - `Error`: 🙋 explained
   - `Atomics`
-  - `JSON`: 🖐️ used
+  - `JSON`: 🙋 explained
   - `WeakRef`
   - `FinalizationRegistry`
-  - `Intl`
+  - `Intl`: 🖐️ used
   - `Promise`: 🙋 explained
-  - `console`: 🖐️ used
+  - `console`: 🙋 explained
   - Timers: 🖐️ used
 - Infrastructure
-  - V8: 🎓 known
-  - Node.js: 🖐️ used
-  - npm: 🖐️ used
+  - V8: 🙋 explained
+  - Node.js: 🙋 explained
+  - npm: 🙋 explained
   - prettier: 🙋 explained
   - MDN: 🖐️ used
   - TC39

@@ -21,28 +21,28 @@
   - Files `package.json`, `package-lock.json`: 🙋 explained
   - Module-based permissions model
   - Isolation with modularity
-  - Dependency injection: 🖐️ used
-  - DI containers
-  - Coupling and cohesion
+  - Dependency injection: 🙋 explained
+  - DI containers: 🙋 explained
+  - Coupling and cohesion: 🙋 explained
   - Framework agnostic approach
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 👂 heard
   - Process-based permissions
   - Graceful shutdown
-  - Clustering
-  - Watch filesystem changes with --watch
+  - Clustering: 👂 heard
+  - Watch filesystem changes with --watch: 🖐️ used
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
-  - Password hashing with crypto.scrypt
-  - Web Crypto API
+  - Streams API: 🎓 known
+  - Web Streams API: 🎓 known
+  - Crypto API: 🖐️ used
+  - Password hashing with crypto.scrypt: 🖐️ used
+  - Web Crypto API: 🎓 known
   - File system API (sync and async): 🎓 known
   - Copy folder recursively: 🎓 known
-  - Worker threads
+  - Worker threads: 🎓 known
   - Performance hooks
-  - Native fetch and nodejs/undici
+  - Native fetch and nodejs/undici: 🖐️ used
   - async_hooks
   - AsyncLocalStorage
   - AsyncResource
@@ -68,58 +68,58 @@
   - Fetch API: 🙋 explained
   - IncomingMessage
   - HTTP(S): 🙋 explained
-  - TCP/SSL
-  - UDP
+  - TCP/SSL: 🙋 explained
+  - UDP: 🙋 explained
   - TLS
-  - Websocket: 👂 heard
+  - Websocket: 🎓 known
   - SSE
   - HTTP/3 (QUIC)
-  - Long polling: 👂 heard
+  - Long polling: 🙋 explained
   - REST: 🙋 explained
-  - RPC
-  - Routing: 🖐️ used
-  - DoS: 👂 heard
-  - DDoS: 👂 heard
-  - XSS
-  - Path traversal
-  - CSRF
-  - DNS: 👂 heard
-  - SQL injection: 🖐️ used
+  - RPC: 🙋 explained
+  - Routing: 🙋 explained
+  - DoS: 🙋 explained
+  - DDoS: 🙋 explained
+  - XSS: 🙋 explained
+  - Path traversal: 🙋 explained
+  - CSRF: 🎓 known
+  - DNS: 🙋 explained
+  - SQL injection: 🙋 explained
   - noDelay
   - keep-alive
   - IP sticky sessions
 - Technique and tools
   - Native test runner: 👂 heard
-  - Logging: 🖐️ used
+  - Logging: 🙋 explained
   - Application configuring: 🙋 explained
-  - Testing: 🖐️ used
-  - CI/CD
-  - Readable: 🖐️ used
-  - Writable: 🖐️ used
-  - Transform
+  - Testing: 🙋 explained
+  - CI/CD: 🙋 explained
+  - Readable: 🎓 known
+  - Writable: 🎓 known
+  - Transform: 🖐️ used
   - Back pressure
   - Buffer: 🖐️ used
-  - Console: 🖐️ used
-  - Inspector
+  - Console: 🙋 explained
+  - Inspector: 🎓 known
 - Data access
-  - Data access layer
+  - Data access layer: 🎓 known
   - Repository: 🙋 explained
   - Active record
-  - Query builder
+  - Query builder: 🙋 explained
   - Object-Relational Mapping: 👂 heard
   - CRUD: 🙋 explained
-  - DTO
+  - DTO: 🙋 explained
 - Error handling and debugging
   - `Error`: 🖐️ used
   - `error.cause`
-  - `error.code`
+  - `error.code`: 🖐️ used
   - `error.message`: 🖐️ used
-  - `error.stack`
+  - `error.stack`: 🖐️ used
   - `Error.captureStackTrace`
   - How to avoid mixins
   - Uncaught exceptions
   - Heap dump
-  - Debugging tools
+  - Debugging tools: 🖐️ used
   - Flame graph
   - Memory leaks
   - Resource leaks

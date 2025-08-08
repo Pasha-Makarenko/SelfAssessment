@@ -13,7 +13,7 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
+  - Race conditions: 🙋 explained
   - Dead locks
   - Live locks
   - Concurrent programming
@@ -24,46 +24,46 @@
 - Async contracts
   - Callbacks: 🙋 explained
   - Callback-last-error-first
-  - Thenable
+  - Thenable: 🙋 explained
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
   - Future
   - Deferred
-  - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
-  - Event: 🎓 known
-  - Coroutine: 👂 heard
-  - Goroutine
-  - Signal: 👂 heard
-  - Stream
-  - Chain of responsibility
-  - Middleware: 🖐️ used
+  - Sync generator: 🙋 explained
+  - Async Generator: 🙋 explained
+  - Async Iterator: 🙋 explained
+  - Event: 🙋 explained
+  - Coroutine: 🎓 known
+  - Goroutine: 👂 heard
+  - Signal: 🙋 explained
+  - Stream: 🎓 known
+  - Chain of responsibility: 🙋 explained
+  - Middleware: 🙋 explained
   - Locks
 - Async adapters and utils
-  - callbackify: 👂 heard
-  - promisify: 👂 heard
+  - callbackify: 🎓 known
+  - promisify: 🎓 known
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
-  - Observable/Observer: 🎓 known
+  - EventEmitter: 🙋 explained
+  - Observable/Observer: 🙋 explained
   - Readable: 🎓 known
   - Writable: 🎓 known
-  - Transform
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
+  - Transform: 🖐️ used
+  - Async Pool: 🎓 known
+  - Async Queue: 🎓 known
   - Async Collector
   - Semaphore
-  - Mutex
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 🎓 known
+  - Timers: 🖐️ used
   - `setImmediate`
   - `nextTick`
-  - AbortController: 👂 heard
-  - AbortSignal: 👂 heard
+  - AbortController: 🖐️ used
+  - AbortSignal: 🖐️ used
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
@@ -78,11 +78,11 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library: 🎓 known
-  - Promise.all: 🎓 known
+  - RxJS library: 🙋 explained
+  - Promise.all: 🖐️ used
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any: 🎓 known
   - Web Locks API
   - IPC
   - Channel API
