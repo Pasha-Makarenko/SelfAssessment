@@ -1,87 +1,87 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming: 🎓 known
+  - Procedural programming: e
   - Imperative programming
-  - Structured programming: 🎓 known
+  - Structured programming: k
   - Non-structured programming
-  - Functional programming: 🎓 known
+  - Functional programming: e
   - Prototype-based programming
-  - Object-oriented programming: 🎓 known
+  - Object-oriented programming: e
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming: 👂 heard
-  - Parallel programming: 👂 heard
+  - Asynchronous programming: h
+  - Parallel programming: h
   - Reactive programming
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 🎓 known
-  - Metaprogramming: 👂 heard
+  - Multi-paradigm programming: k
+  - Metaprogramming: k
   - Actor model
   - Lambda calculus
   - Black box
   - Information hiding
-  - Aspect-oriented programming
+  - Aspect-oriented programming: k
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor: 🖐️ used
-  - Operator `new`: 🖐️ used
-  - Static method: 🖐️ used
-  - Method: 🖐️ used
-  - Async method: 🖐️ used
-  - Getters, Setters: 🖐️ used
-  - Public fields: 🖐️ used
-  - Private fields: 🖐️ used
-  - Field declarations: 🖐️ used
-  - Inheritance: 🖐️ used
-  - Parent class: 🖐️ used
-  - Polymorphism
-  - Abstract class: 🖐️ used
-  - Interface: 🖐️ used
-  - Encapsulation: 👂 heard
-  - Hidden class
-  - Object form
-  - Instance: 🖐️ used
+  - Constructor: e
+  - Operator `new`: e
+  - Static method: e
+  - Method: e
+  - Async method: e
+  - Getters, Setters: e
+  - Public fields: e
+  - Private fields: e
+  - Field declarations: e
+  - Inheritance: e
+  - Parent class: e
+  - Polymorphism: e
+  - Abstract class: e
+  - Interface: e
+  - Encapsulation: e
+  - Hidden class: e
+  - Object form: e
+  - Instance: e
   - Introspection
   - Reflection
   - The diamond problem
 - GRASP
-  - Information expert
-  - Creator
-  - Controller: 🎓 known
-  - Indirection
-  - Low coupling: 🎓 known
-  - High cohesion: 🎓 known
-  - Protected variations
-  - Pure fabrication
+  - Information expert: e
+  - Creator: e
+  - Controller: e
+  - Indirection: e
+  - Low coupling: e
+  - High cohesion: e
+  - Protected variations: e
+  - Pure fabrication: e
 - SOLID
-  - Single-responsibility principle (SRP): 👂 heard
-  - Open–closed principle (OCP): 👂 heard
-  - Liskov substitution principle (LSP): 👂 heard
-  - Interface segregation principle (ISP): 👂 heard
-  - Dependency inversion principle (DIP): 👂 heard
+  - Single-responsibility principle (SRP): e
+  - Open–closed principle (OCP): e
+  - Liskov substitution principle (LSP): e
+  - Interface segregation principle (ISP): e
+  - Dependency inversion principle (DIP): e
 - Patterns
-  - Singleton: 👂 heard
-  - Factory Method: 👂 heard
-  - Abstract Factory: 👂 heard
-  - Adapter: 👂 heard
-  - Observer: 👂 heard
-  - Strategy
-  - Facade: 👂 heard
-  - Proxy
-  - Chain of Responsibility
-  - Command
-  - Iterator
-  - State
-  - Bridge: 👂 heard
-  - Builder: 👂 heard
-  - Prototype
-  - Composite
-  - Decorator: 👂 heard
-  - Flyweight
+  - Singleton: e
+  - Factory Method: e
+  - Abstract Factory: e
+  - Adapter: e
+  - Observer: e
+  - Strategy: e
+  - Facade: e
+  - Proxy: e
+  - Chain of Responsibility: e
+  - Command: e
+  - Iterator: e
+  - State: e
+  - Bridge: k
+  - Builder: e
+  - Prototype: k
+  - CompositeL k
+  - Decorator: e
+  - Flyweight: h
   - Mediator
   - Memento
   - Template Method

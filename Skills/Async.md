@@ -1,10 +1,10 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop: 🙋 explained
-  - `try..catch`: 🙋 explained
-  - Non-blocking: 🎓 known
-  - Async I/O: 🎓 known
+  - Event loop: e
+  - `try..catch`: e
+  - Non-blocking: k
+  - Async I/O: k
   - Thread pool
   - Pattern Reactor
   - CAS operations
@@ -13,7 +13,7 @@
   - Completion ports
   - Event ports
   - libuv
-  - Race conditions
+  - Race conditions: e
   - Dead locks
   - Live locks
   - Concurrent programming
@@ -22,48 +22,48 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks: 🙋 explained
+  - Callbacks: e
   - Callback-last-error-first
-  - Thenable
-  - Promise: 🙋 explained
-  - Async/await: 🙋 explained
+  - Thenable: e
+  - Promise: e
+  - Async/await: e
   - Future
   - Deferred
-  - Sync generator: 👂 heard
-  - Async Generator: 👂 heard
-  - Async Iterator: 👂 heard
-  - Event: 🎓 known
-  - Coroutine: 👂 heard
-  - Goroutine
-  - Signal: 👂 heard
-  - Stream
-  - Chain of responsibility
-  - Middleware: 🖐️ used
+  - Sync generator: e
+  - Async Generator: e
+  - Async Iterator: e
+  - Event: e
+  - Coroutine: k
+  - Goroutine: h
+  - Signal: e
+  - Stream: k
+  - Chain of responsibility: e
+  - Middleware: e
   - Locks
 - Async adapters and utils
-  - callbackify: 👂 heard
-  - promisify: 👂 heard
+  - callbackify: k
+  - promisify: k
   - asyncify
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter: 🎓 known
-  - Observable/Observer: 🎓 known
-  - Readable: 🎓 known
-  - Writable: 🎓 known
-  - Transform
-  - Async Pool: 👂 heard
-  - Async Queue: 👂 heard
+  - EventEmitter: e
+  - Observable/Observer: e
+  - Readable: k
+  - Writable: k
+  - Transform: u
+  - Async Pool: k
+  - Async Queue: k
   - Async Collector
   - Semaphore
-  - Mutex
+  - Mutex: h
   - Spin Lock
 - JavaScript & Node.js specific
-  - Timers: 🎓 known
+  - Timers: u
   - `setImmediate`
   - `nextTick`
-  - AbortController: 👂 heard
-  - AbortSignal: 👂 heard
+  - AbortController: u
+  - AbortSignal: u
   - Promise unhandled rejection
   - Promise double resolve
   - Atomics
@@ -78,11 +78,11 @@
   - AsyncResource
 - Techniques
   - Async.js library
-  - RxJS library: 🎓 known
-  - Promise.all: 🎓 known
+  - RxJS library: e
+  - Promise.all: u
   - Promise.allSettled
   - Promise.race
-  - Promise.any
+  - Promise.any: k
   - Web Locks API
   - IPC
   - Channel API
