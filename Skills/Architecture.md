@@ -9,19 +9,19 @@
   - GoF patterns: 🙋 explained
   - CQS: 🙋 explained
   - Leaking abstractions: 🙋 explained
-  - Multiparadigm code: 🎓 known
-  - Contract programming: 🎓 known
-  - Platform-agnostic: 🎓 known
-  - Transport-agnostic: 🎓 known
-  - Framework-agnostic: 🎓 known
-  - Code coverage: 🎓 known
+  - Multiparadigm code: e
+  - Contract programming: e
+  - Platform-agnostic: e
+  - Transport-agnostic: e
+  - Framework-agnostic: e
+  - Code coverage: e
   - Cohesion: 🙋 explained
   - Coupling: 🙋 explained
   - Cyclomatic complexity: 🎓 known
-  - Reliability: 🎓 known
-  - Quality: 🎓 known
-  - Availability: 🎓 known
-  - Flexibility: 🎓 known
+  - Reliability: e
+  - Quality: e
+  - Availability: e
+  - Flexibility: e
   - Law of Demeter (LoD): 🙋 explained
 - Application architecture
   - Isolation between layer: 🙋 explained
@@ -29,7 +29,7 @@
   - System vs applied code: 🎓 known
   - Multilayer approach
   - Hexagonal architecture: 🙋 explained
-  - Separation of concerns (SoC)
+  - Separation of concerns (SoC): e
   - Metaprogramming: 🎓 known
   - Inversion of control (IoC): 🙋 explained
   - Dependency injection (DI): 🙋 explained
@@ -37,64 +37,64 @@
   - Domain-driven design (DDD): 🙋 explained
   - Pub/sub: 🙋 explained
   - Message brocker: 🙋 explained
-  - Agent: 👂 heard
+  - Agent: e
   - Service locator
   - Message Queue (MQ): 🙋 explained
   - CQRS: 🙋 explained
   - Event sourcing: 🙋 explained
-  - E-R data modeling
-  - Entity-relationship diagram
+  - E-R data modeling: e
+  - Entity-relationship diagram: e
   - IDEF1X
-  - UML: 🎓 known
+  - UML: e
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
-  - Load balancing: 🖐️ used
+  - Load balancing: e
   - Gateways: 🙋 explained
   - On-premises
-  - IaaS: 🎓 known
-  - PaaS: 🎓 known
-  - SaaS: 🎓 known
-  - FaaS clouds: 🎓 known
-  - Serverless: 🎓 known
+  - IaaS: e
+  - PaaS: e
+  - SaaS: e
+  - FaaS clouds: e
+  - Serverless: e
   - Vendor lock-in
   - Bus factor
 - Solution architecture
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design: 🖐️ used
+  - System design: e
   - Process modelling
   - Data modelling
   - Solution components
   - Risk assessment
-  - Non Functional Requirements (NFR)
-  - Clouds: 🎓 known
-  - BPMN
+  - Non Functional Requirements (NFR): e
+  - Clouds: e
+  - BPMN: e
   - Low-code
   - No-code
   - Metric: 🙋 explained
   - Metric abuse: 🙋 explained
   - ACID: 🙋 explained
   - CAP theorem: 🙋 explained
-  - Single source of truth (SSOT)
+  - Single source of truth (SSOT): e
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs: e
+  - Enterprise strategy: e
   - Integration with subsystems: 👂 heard
-  - Enterprise vision
-  - Enterprise capabilities
-  - Project scope: 👂 heard
-  - Enterprise service bus
-  - Service-oriented architecture
+  - Enterprise vision: e
+  - Enterprise capabilities: e
+  - Project scope: e
+  - Enterprise service bus: k
+  - Service-oriented architecture: k
   - Microservices: 🙋 explained
   - Process choreography
   - Service orchestration: 🙋 explained
   - Data warehouse
   - Business Intelligence
-  - OLAP
-  - OLTP
+  - OLAP: e
+  - OLTP: e
   - Conways Law
   - Quality assurance
   - Engineering Hygiene

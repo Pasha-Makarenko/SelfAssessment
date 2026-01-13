@@ -2,30 +2,30 @@
 
 - Theory
   - Procedural programming: 🙋 explained
-  - Imperative programming
-  - Structured programming: 🎓 known
+  - Imperative programming: e
+  - Structured programming: e
   - Non-structured programming
   - Functional programming: 🙋 explained
-  - Prototype-based programming
+  - Prototype-based programming: e
   - Object-oriented programming: 🙋 explained
   - Object-based programming
   - Generic programming
   - Concurrent computing
-  - Asynchronous programming: 👂 heard
-  - Parallel programming: 👂 heard
-  - Reactive programming
+  - Asynchronous programming: e
+  - Parallel programming: e
+  - Reactive programming: e
   - Functional-reactive (FRP)
   - Automata-based programming
   - Domain-specific languages
-  - Multi-paradigm programming: 🎓 known
-  - Metaprogramming: 🎓 known
-  - Actor model
-  - Lambda calculus
-  - Black box
-  - Information hiding
-  - Aspect-oriented programming: 🎓 known
-  - Anemic domain model
-  - Class composition
+  - Multi-paradigm programming: e
+  - Metaprogramming: e
+  - Actor model: e
+  - Lambda calculus: e
+  - Black box: e
+  - Information hiding: e
+  - Aspect-oriented programming: e
+  - Anemic domain model: e
+  - Class composition: e
 - OOP basics
   - Constructor: 🙋 explained
   - Operator `new`: 🙋 explained
@@ -76,16 +76,16 @@
   - Command: 🙋 explained
   - Iterator: 🙋 explained
   - State: 🙋 explained
-  - Bridge: 🎓 known
+  - Bridge: e
   - Builder: 🙋 explained
-  - Prototype: 🎓 known
-  - CompositeL: 🎓 known
+  - Prototype: e
+  - Composite: e
   - Decorator: 🙋 explained
-  - Flyweight: 👂 heard
+  - Flyweight: e
   - Mediator
   - Memento
   - Template Method
   - Visitor
-  - Reactor
+  - Reactor: e
   - Active object
   - Delegation

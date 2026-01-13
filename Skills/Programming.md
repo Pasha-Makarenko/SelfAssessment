@@ -1,33 +1,33 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: 🖐️ used
-  - Modeling: 🖐️ used
+  - Model: e
+  - Modeling: e
   - Subject domain
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
-  - Semantics: 🖐️ used
+  - Semantics: e
   - Abstraction: 🙋 explained
-  - Paradigm: 🎓 known
+  - Paradigm: e
   - Programm: 🎓 known
-  - Programming paradigm: 🎓 known
+  - Programming paradigm: e
   - Programming language: 🙋 explained
-  - Contract: 🎓 known
-  - Module: 🖐️ used
+  - Contract: e
+  - Module: e
   - Library: 🙋 explained
   - Package: 🙋 explained
   - Component: 🙋 explained
   - Framework: 🙋 explained
-  - Platform: 🖐️ used
+  - Platform: e
   - Source code: 🙋 explained
   - Object code
   - Machine code: 🎓 known
   - Microcode
-  - Software engineering: 🎓 known
+  - Software engineering: e
   - Decomposition: 🙋 explained
-  - Control flow: 👂 heard
+  - Control flow: k
   - Data flow: 🎓 known
-  - Code reuse
+  - Code reuse: e
   - Defensive programming
   - Don't repeat yourself (DRY): 🙋 explained
   - KISS principle: 🙋 explained
@@ -56,15 +56,15 @@
   - Regular expression: 🙋 explained
   - Interface: 🙋 explained
   - Namespaces: 🙋 explained
-  - Call stack: 🎓 known
-  - Naming conventions
-  - Coding conventions
+  - Call stack: e
+  - Naming conventions: e
+  - Coding conventions: e
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case: 🙋 explained
-  - Trailing commas: 🎓 known
-  - Return early: 🎓 known
-  - Fail-fast
+  - Trailing commas: e
+  - Return early: e
+  - Fail-fast: e
 - Types
   - Primitive types: 🙋 explained
   - Reference types: 🙋 explained
@@ -103,7 +103,7 @@
   - Monad
   - Monoid
   - Generator: 🙋 explained
-  - Coroutine: 🎓 known
+  - Coroutine: e
 - Data structures
   - Array: 🙋 explained
   - Structure: 🙋 explained
@@ -112,11 +112,11 @@
   - Instance: 🙋 explained
   - Object: 🙋 explained
   - Collection: 🙋 explained
-  - Set: 🖐️ used
+  - Set: e
   - Hash table: 🙋 explained
   - Linked list: 🙋 explained
   - Doubly list: 🙋 explained
-  - Unrolled list
+  - Unrolled list: e
   - Circular list: 🙋 explained
   - Queue: 🙋 explained
   - Stack: 🙋 explained
@@ -124,8 +124,8 @@
   - Tree: 🙋 explained
   - Graph: 🙋 explained
   - Iterator: 🙋 explained
-  - Mutable state: 🎓 known
-  - Immutable state: 🎓 known
+  - Mutable state: e
+  - Immutable state: e
   - Serialization: 🙋 explained
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
@@ -133,14 +133,14 @@
   - YAML: 🙋 explained
 - Networking
   - DNS: 🙋 explained
-  - CDN: 🎓 known
+  - CDN: e
   - CORS: 🙋 explained
   - IPv4: 🙋 explained
   - IPv6: 🙋 explained
   - NAT: 🙋 explained
   - URL: 🙋 explained
   - URN
-  - URI
+  - URI: e
 - Process and tools
   - Compiler: 🙋 explained
   - Just-in-time compilation
@@ -150,16 +150,16 @@
   - Polyfill: 🎓 known
   - Interpreter: 🙋 explained
   - Linker: 🙋 explained
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine: 🎓 known
-  - Register-based VM
-  - Stack-based VM
+  - Dynamic linking: e
+  - Static linking: e
+  - Runtime: e
+  - Virtual machine: e
+  - Register-based VM: e
+  - Stack-based VM: e
   - Containerization: 🙋 explained
   - Debugger: 🙋 explained
   - Tracing: 🙋 explained
-  - Garbage collection
+  - Garbage collection: e
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
@@ -191,10 +191,10 @@
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
-  - Pass-through parameters
-  - Accumulate and fire
+  - Pass-through parameters: e
+  - Accumulate and fire: e
   - Use switch/case: 🙋 explained
-  - Temporary field
+  - Temporary field: e
   - Handle object as instances and hashes at the same time: 🎓 known
   - Use fields instead of arguments: 🎓 known
   - Data clump
@@ -213,12 +213,12 @@
   - Kernel: 🎓 known
   - Ring
   - Virtual memory
-  - File system: 🎓 known
-  - Linux: 🖐️ used
-  - Unix: 🎓 known
+  - File system: e
+  - Linux: e
+  - Unix: e
   - BSD
-  - MacOS: 🎓 known
-  - Windows: 🖐️ used
+  - MacOS: e
+  - Windows: e
   - Real-time OS
   - Embedded OS
 - Standards
