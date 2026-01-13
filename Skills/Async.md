@@ -3,87 +3,87 @@
 - Theory
   - Event loop: 🙋 explained
   - `try..catch`: 🙋 explained
-  - Non-blocking: e
-  - Async I/O: e
-  - Thread pool: e
-  - Pattern Reactor: e
-  - CAS operations: e
+  - Non-blocking: 🙋 explained
+  - Async I/O: 🙋 explained
+  - Thread pool: 🙋 explained
+  - Pattern Reactor: 🙋 explained
+  - CAS operations: 🙋 explained
   - epoll
   - kqueue
   - Completion ports
   - Event ports
-  - libuv: e
+  - libuv: 🙋 explained
   - Race conditions: 🙋 explained
-  - Dead locks: e
-  - Live locks: e
-  - Concurrent programming: e
-  - Parallel programming: e
-  - Actor Model: e
-  - Thread: e
-  - Process: e
+  - Dead locks: 🙋 explained
+  - Live locks: 🙋 explained
+  - Concurrent programming: 🙋 explained
+  - Parallel programming: 🙋 explained
+  - Actor Model: 🙋 explained
+  - Thread: 🙋 explained
+  - Process: 🙋 explained
 - Async contracts
   - Callbacks: 🙋 explained
-  - Callback-last-error-first: e
+  - Callback-last-error-first: 🙋 explained
   - Thenable: 🙋 explained
   - Promise: 🙋 explained
   - Async/await: 🙋 explained
-  - Future: k
-  - Deferred: k
+  - Future: 🎓 known
+  - Deferred: 🎓 known
   - Sync generator: 🙋 explained
   - Async Generator: 🙋 explained
   - Async Iterator: 🙋 explained
   - Event: 🙋 explained
-  - Coroutine: e
-  - Goroutine: e
+  - Coroutine: 🙋 explained
+  - Goroutine: 🙋 explained
   - Signal: 🙋 explained
-  - Stream: e
+  - Stream: 🙋 explained
   - Chain of responsibility: 🙋 explained
   - Middleware: 🙋 explained
-  - Locks: e
+  - Locks: 🙋 explained
 - Async adapters and utils
-  - callbackify: e
-  - promisify: e
-  - asyncify: e
-  - Callbacks compose: e
-  - Async compose: e
+  - callbackify: 🙋 explained
+  - promisify: 🙋 explained
+  - asyncify: 🙋 explained
+  - Callbacks compose: 🙋 explained
+  - Async compose: 🙋 explained
 - Async abstractions interfaces
   - EventEmitter: 🙋 explained
   - Observable/Observer: 🙋 explained
-  - Readable: e
-  - Writable: e
-  - Transform: e
-  - Async Pool: e
-  - Async Queue: e
-  - Async Collector: e
-  - Semaphore: e
-  - Mutex: e
-  - Spin Lock: e
+  - Readable: 🙋 explained
+  - Writable: 🙋 explained
+  - Transform: 🙋 explained
+  - Async Pool: 🙋 explained
+  - Async Queue: 🙋 explained
+  - Async Collector: 🙋 explained
+  - Semaphore: 🙋 explained
+  - Mutex: 🙋 explained
+  - Spin Lock: 🙋 explained
 - JavaScript & Node.js specific
-  - Timers: e
-  - `setImmediate`: e
-  - `nextTick`: e
-  - AbortController: e
-  - AbortSignal: e
-  - Promise unhandled rejection: e
-  - Promise double resolve: e
-  - Atomics: e
+  - Timers: 🙋 explained
+  - `setImmediate`: 🙋 explained
+  - `nextTick`: 🙋 explained
+  - AbortController: 🙋 explained
+  - AbortSignal: 🙋 explained
+  - Promise unhandled rejection: 🙋 explained
+  - Promise double resolve: 🙋 explained
+  - Atomics: 🙋 explained
   - High resolution clock
-  - Callback hell: e
-  - Promise hell: e
-  - ref() and unref(): e
-  - Error handling in async code: e
-  - Better stack traces with return await: e
-  - JSON streaming serialization: e
-  - AsyncLocalStorage: e
-  - AsyncResource: e
+  - Callback hell: 🙋 explained
+  - Promise hell: 🙋 explained
+  - ref() and unref(): 🙋 explained
+  - Error handling in async code: 🙋 explained
+  - Better stack traces with return await: 🙋 explained
+  - JSON streaming serialization: 🙋 explained
+  - AsyncLocalStorage: 🙋 explained
+  - AsyncResource: 🙋 explained
 - Techniques
-  - Async.js library: k
+  - Async.js library: 🎓 known
   - RxJS library: 🙋 explained
-  - Promise.all: e
-  - Promise.allSettled: e
-  - Promise.race: e
-  - Promise.any: e
-  - Web Locks API: e
-  - IPC: e
-  - Channel API: e
+  - Promise.all: 🙋 explained
+  - Promise.allSettled: 🙋 explained
+  - Promise.race: 🙋 explained
+  - Promise.any: 🙋 explained
+  - Web Locks API: 🙋 explained
+  - IPC: 🙋 explained
+  - Channel API: 🙋 explained
   - Revealing constructor

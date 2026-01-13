@@ -41,8 +41,8 @@
   - `yield`: 🙋 explained
   - `await`: 🙋 explained
   - Template literal
-  - Strict mode: e
-  - Hoisting: e
+  - Strict mode: 🙋 explained
+  - Hoisting: 🙋 explained
   - `delete`: 🙋 explained
   - `in`: 🙋 explained
   - `super`: 🙋 explained
@@ -50,10 +50,10 @@
   - `static`: 🙋 explained
   - `Number.parseInt`: 🙋 explained
   - `Number.parseFloat`: 🙋 explained
-  - Property descriptors: e
-  - Sealing properties: e
-  - Freezing properties: e
-  - Computed properties: e
+  - Property descriptors: 🙋 explained
+  - Sealing properties: 🙋 explained
+  - Freezing properties: 🙋 explained
+  - Computed properties: 🙋 explained
   - Instance class fields: 🙋 explained
   - Static class fields: 🙋 explained
   - Private class fields: 🙋 explained
@@ -73,7 +73,7 @@
   - `export`: 🙋 explained
   - `label`: 👂 heard
   - `try..catch`: 🙋 explained
-  - `switch`: e
+  - `switch`: 🙋 explained
   - `class`: 🙋 explained
   - `extends`: 🙋 explained
   - `with`: 🙋 explained
@@ -93,30 +93,30 @@
   - `Array`: 🙋 explained
   - `Map`: 🙋 explained
   - `Set`: 🙋 explained
-  - `WeakMap`: e
-  - `WeakSet`: e
-  - Typed arrays: e
-  - Mixins: e
-  - `Object.assign`: e
+  - `WeakMap`: 🙋 explained
+  - `WeakSet`: 🙋 explained
+  - Typed arrays: 🙋 explained
+  - Mixins: 🙋 explained
+  - `Object.assign`: 🙋 explained
 - Standard classes and namespaces
   - `Proxy`: 🙋 explained
   - `RegExp`: 🙋 explained
   - `Date`: 🙋 explained
-  - `Math`: e
-  - `Reflect`: h
+  - `Math`: 🙋 explained
+  - `Reflect`: 👂 heard
   - `Error`: 🙋 explained
-  - `Atomics`: e
+  - `Atomics`: 🙋 explained
   - `JSON`: 🙋 explained
-  - `WeakRef`: h
+  - `WeakRef`: 👂 heard
   - `FinalizationRegistry`
-  - `Intl`: e
+  - `Intl`: 🙋 explained
   - `Promise`: 🙋 explained
   - `console`: 🙋 explained
-  - Timers: e
+  - Timers: 🙋 explained
 - Infrastructure
   - V8: 🙋 explained
   - Node.js: 🙋 explained
   - npm: 🙋 explained
   - prettier: 🙋 explained
-  - MDN: e
+  - MDN: 🙋 explained
   - TC39

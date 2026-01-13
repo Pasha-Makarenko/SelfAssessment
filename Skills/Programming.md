@@ -1,33 +1,33 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: e
-  - Modeling: e
+  - Model: 🙋 explained
+  - Modeling: 🙋 explained
   - Subject domain
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
-  - Semantics: e
+  - Semantics: 🙋 explained
   - Abstraction: 🙋 explained
-  - Paradigm: e
+  - Paradigm: 🙋 explained
   - Programm: 🎓 known
-  - Programming paradigm: e
+  - Programming paradigm: 🙋 explained
   - Programming language: 🙋 explained
-  - Contract: e
-  - Module: e
+  - Contract: 🙋 explained
+  - Module: 🙋 explained
   - Library: 🙋 explained
   - Package: 🙋 explained
   - Component: 🙋 explained
   - Framework: 🙋 explained
-  - Platform: e
+  - Platform: 🙋 explained
   - Source code: 🙋 explained
   - Object code
   - Machine code: 🎓 known
   - Microcode
-  - Software engineering: e
+  - Software engineering: 🙋 explained
   - Decomposition: 🙋 explained
-  - Control flow: k
+  - Control flow: 🎓 known
   - Data flow: 🎓 known
-  - Code reuse: e
+  - Code reuse: 🙋 explained
   - Defensive programming
   - Don't repeat yourself (DRY): 🙋 explained
   - KISS principle: 🙋 explained
@@ -56,15 +56,15 @@
   - Regular expression: 🙋 explained
   - Interface: 🙋 explained
   - Namespaces: 🙋 explained
-  - Call stack: e
-  - Naming conventions: e
-  - Coding conventions: e
+  - Call stack: 🙋 explained
+  - Naming conventions: 🙋 explained
+  - Coding conventions: 🙋 explained
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case: 🙋 explained
-  - Trailing commas: e
-  - Return early: e
-  - Fail-fast: e
+  - Trailing commas: 🙋 explained
+  - Return early: 🙋 explained
+  - Fail-fast: 🙋 explained
 - Types
   - Primitive types: 🙋 explained
   - Reference types: 🙋 explained
@@ -103,7 +103,7 @@
   - Monad
   - Monoid
   - Generator: 🙋 explained
-  - Coroutine: e
+  - Coroutine: 🙋 explained
 - Data structures
   - Array: 🙋 explained
   - Structure: 🙋 explained
@@ -112,11 +112,11 @@
   - Instance: 🙋 explained
   - Object: 🙋 explained
   - Collection: 🙋 explained
-  - Set: e
+  - Set: 🙋 explained
   - Hash table: 🙋 explained
   - Linked list: 🙋 explained
   - Doubly list: 🙋 explained
-  - Unrolled list: e
+  - Unrolled list: 🙋 explained
   - Circular list: 🙋 explained
   - Queue: 🙋 explained
   - Stack: 🙋 explained
@@ -124,8 +124,8 @@
   - Tree: 🙋 explained
   - Graph: 🙋 explained
   - Iterator: 🙋 explained
-  - Mutable state: e
-  - Immutable state: e
+  - Mutable state: 🙋 explained
+  - Immutable state: 🙋 explained
   - Serialization: 🙋 explained
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
@@ -133,14 +133,14 @@
   - YAML: 🙋 explained
 - Networking
   - DNS: 🙋 explained
-  - CDN: e
+  - CDN: 🙋 explained
   - CORS: 🙋 explained
   - IPv4: 🙋 explained
   - IPv6: 🙋 explained
   - NAT: 🙋 explained
   - URL: 🙋 explained
   - URN
-  - URI: e
+  - URI: 🙋 explained
 - Process and tools
   - Compiler: 🙋 explained
   - Just-in-time compilation
@@ -150,16 +150,16 @@
   - Polyfill: 🎓 known
   - Interpreter: 🙋 explained
   - Linker: 🙋 explained
-  - Dynamic linking: e
-  - Static linking: e
-  - Runtime: e
-  - Virtual machine: e
-  - Register-based VM: e
-  - Stack-based VM: e
+  - Dynamic linking: 🙋 explained
+  - Static linking: 🙋 explained
+  - Runtime: 🙋 explained
+  - Virtual machine: 🙋 explained
+  - Register-based VM: 🙋 explained
+  - Stack-based VM: 🙋 explained
   - Containerization: 🙋 explained
   - Debugger: 🙋 explained
   - Tracing: 🙋 explained
-  - Garbage collection: e
+  - Garbage collection: 🙋 explained
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
@@ -191,10 +191,10 @@
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
-  - Pass-through parameters: e
-  - Accumulate and fire: e
+  - Pass-through parameters: 🙋 explained
+  - Accumulate and fire: 🙋 explained
   - Use switch/case: 🙋 explained
-  - Temporary field: e
+  - Temporary field: 🙋 explained
   - Handle object as instances and hashes at the same time: 🎓 known
   - Use fields instead of arguments: 🎓 known
   - Data clump
@@ -213,12 +213,12 @@
   - Kernel: 🎓 known
   - Ring
   - Virtual memory
-  - File system: e
-  - Linux: e
-  - Unix: e
+  - File system: 🙋 explained
+  - Linux: 🙋 explained
+  - Unix: 🙋 explained
   - BSD
-  - MacOS: e
-  - Windows: e
+  - MacOS: 🙋 explained
+  - Windows: 🙋 explained
   - Real-time OS
   - Embedded OS
 - Standards
