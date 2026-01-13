@@ -1,33 +1,33 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model: 🖐️ used
-  - Modeling: 🖐️ used
+  - Model: 🙋 explained
+  - Modeling: 🙋 explained
   - Subject domain
   - Algorithm: 🙋 explained
   - Syntax: 🙋 explained
-  - Semantics: 🖐️ used
+  - Semantics: 🙋 explained
   - Abstraction: 🙋 explained
-  - Paradigm: 🎓 known
+  - Paradigm: 🙋 explained
   - Programm: 🎓 known
-  - Programming paradigm: 🎓 known
+  - Programming paradigm: 🙋 explained
   - Programming language: 🙋 explained
-  - Contract: 🎓 known
-  - Module: 🖐️ used
+  - Contract: 🙋 explained
+  - Module: 🙋 explained
   - Library: 🙋 explained
   - Package: 🙋 explained
   - Component: 🙋 explained
   - Framework: 🙋 explained
-  - Platform: 🖐️ used
+  - Platform: 🙋 explained
   - Source code: 🙋 explained
   - Object code
   - Machine code: 🎓 known
   - Microcode
-  - Software engineering: 🎓 known
+  - Software engineering: 🙋 explained
   - Decomposition: 🙋 explained
-  - Control flow: 👂 heard
+  - Control flow: 🎓 known
   - Data flow: 🎓 known
-  - Code reuse
+  - Code reuse: 🙋 explained
   - Defensive programming
   - Don't repeat yourself (DRY): 🙋 explained
   - KISS principle: 🙋 explained
@@ -56,15 +56,15 @@
   - Regular expression: 🙋 explained
   - Interface: 🙋 explained
   - Namespaces: 🙋 explained
-  - Call stack: 🎓 known
-  - Naming conventions
-  - Coding conventions
+  - Call stack: 🙋 explained
+  - Naming conventions: 🙋 explained
+  - Coding conventions: 🙋 explained
   - Camel case: 🙋 explained
   - Snake case: 🙋 explained
   - Kebab case: 🙋 explained
-  - Trailing commas: 🎓 known
-  - Return early: 🎓 known
-  - Fail-fast
+  - Trailing commas: 🙋 explained
+  - Return early: 🙋 explained
+  - Fail-fast: 🙋 explained
 - Types
   - Primitive types: 🙋 explained
   - Reference types: 🙋 explained
@@ -103,7 +103,7 @@
   - Monad
   - Monoid
   - Generator: 🙋 explained
-  - Coroutine: 🎓 known
+  - Coroutine: 🙋 explained
 - Data structures
   - Array: 🙋 explained
   - Structure: 🙋 explained
@@ -112,11 +112,11 @@
   - Instance: 🙋 explained
   - Object: 🙋 explained
   - Collection: 🙋 explained
-  - Set: 🖐️ used
+  - Set: 🙋 explained
   - Hash table: 🙋 explained
   - Linked list: 🙋 explained
   - Doubly list: 🙋 explained
-  - Unrolled list
+  - Unrolled list: 🙋 explained
   - Circular list: 🙋 explained
   - Queue: 🙋 explained
   - Stack: 🙋 explained
@@ -124,8 +124,8 @@
   - Tree: 🙋 explained
   - Graph: 🙋 explained
   - Iterator: 🙋 explained
-  - Mutable state: 🎓 known
-  - Immutable state: 🎓 known
+  - Mutable state: 🙋 explained
+  - Immutable state: 🙋 explained
   - Serialization: 🙋 explained
   - String parsing: 🙋 explained
   - JSON: 🙋 explained
@@ -133,14 +133,14 @@
   - YAML: 🙋 explained
 - Networking
   - DNS: 🙋 explained
-  - CDN: 🎓 known
+  - CDN: 🙋 explained
   - CORS: 🙋 explained
   - IPv4: 🙋 explained
   - IPv6: 🙋 explained
   - NAT: 🙋 explained
   - URL: 🙋 explained
   - URN
-  - URI
+  - URI: 🙋 explained
 - Process and tools
   - Compiler: 🙋 explained
   - Just-in-time compilation
@@ -150,16 +150,16 @@
   - Polyfill: 🎓 known
   - Interpreter: 🙋 explained
   - Linker: 🙋 explained
-  - Dynamic linking
-  - Static linking
-  - Runtime
-  - Virtual machine: 🎓 known
-  - Register-based VM
-  - Stack-based VM
+  - Dynamic linking: 🙋 explained
+  - Static linking: 🙋 explained
+  - Runtime: 🙋 explained
+  - Virtual machine: 🙋 explained
+  - Register-based VM: 🙋 explained
+  - Stack-based VM: 🙋 explained
   - Containerization: 🙋 explained
   - Debugger: 🙋 explained
   - Tracing: 🙋 explained
-  - Garbage collection
+  - Garbage collection: 🙋 explained
   - Refactoring: 🙋 explained
   - Code review: 🙋 explained
   - Exception: 🙋 explained
@@ -191,10 +191,10 @@
   - Long inheritance: 🙋 explained
   - Large class/file: 🙋 explained
   - Too many parameters: 🙋 explained
-  - Pass-through parameters
-  - Accumulate and fire
+  - Pass-through parameters: 🙋 explained
+  - Accumulate and fire: 🙋 explained
   - Use switch/case: 🙋 explained
-  - Temporary field
+  - Temporary field: 🙋 explained
   - Handle object as instances and hashes at the same time: 🎓 known
   - Use fields instead of arguments: 🎓 known
   - Data clump
@@ -213,12 +213,12 @@
   - Kernel: 🎓 known
   - Ring
   - Virtual memory
-  - File system: 🎓 known
-  - Linux: 🖐️ used
-  - Unix: 🎓 known
+  - File system: 🙋 explained
+  - Linux: 🙋 explained
+  - Unix: 🙋 explained
   - BSD
-  - MacOS: 🎓 known
-  - Windows: 🖐️ used
+  - MacOS: 🙋 explained
+  - Windows: 🙋 explained
   - Real-time OS
   - Embedded OS
 - Standards
